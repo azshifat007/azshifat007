@@ -43,6 +43,15 @@
 
 <br/>
 <hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/azshifat007/azshifat007/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 <div align="center">
 <img length=100px width=100 src="https://github.com/azshifat007/azshifat007/blob/main/.github/workflows/zoro.gif" /><br>
 </div>
