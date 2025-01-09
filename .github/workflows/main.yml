@@ -32,6 +32,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Debugging: List files in the dist directory
+      - name: List files in dist directory
+        run: ls -R dist
+
       - name: Show build status
         run: git status
 
